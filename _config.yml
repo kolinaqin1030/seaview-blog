@@ -8,3 +8,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 # rebuild for new blog
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SEAVIEW Blog</title>
+</head>
+<body>
+  <h1>Welcome to SEAVIEW Blog</h1>
+  <p>Explore our latest SEO-optimized articles about digital signage, smart boards, and display technology.</p>
+  <ul>
+    <li><a href="blog/hospital-waiting-room-digital-displays-guide-2025.html">Hospital Waiting Room Digital Displays: Complete 2025 Guide</a></li>
+  </ul>
+</body>
+</html>
