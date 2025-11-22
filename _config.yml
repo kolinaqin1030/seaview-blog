@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>SEAVIEW Blog</title>
-</head>
-<body>
-  <h1>Welcome to SEAVIEW Blog</h1>
-  <p>Our latest article:</p>
-  <a href="blog/hospital-waiting-room-digital-displays-guide-2025.md">Hospital Waiting Room Digital Displays: Complete 2025 Guide</a>
-</body>
-</html>
+title: SEAVIEW Blog
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+include:
+  - blog       # 关键！让 Jekyll 渲染 /blog 目录
