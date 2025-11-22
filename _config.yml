@@ -1,13 +1,3 @@
-# 基础配置
-title: SEAVIEW Blog
-description: Official SEAVIEW digital signage insights and product updates.
-theme: minima
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-# rebuild for new blog
 <!DOCTYPE html>
 <html lang="en">
 <head>
